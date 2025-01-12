@@ -1,4 +1,12 @@
 ## Hi there 👋
+Mohammad Alhyari
+Junior DevOps Enginner
+I am currently building my career into devsecops and currently learning how to construct and maintain pipelines using popular devops tools, I am also trying to build my own projects. 
+- 🔭 I’m currently working on ...
+Complete CI/CD Pipelines
+Learning Terraform, Ansible, Kubernetes, Docker, and more! 
+
+
 
 <!--
 **MOHyari/MOHyari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
